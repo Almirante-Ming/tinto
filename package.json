@@ -4,8 +4,8 @@
   "description": "this module has manage the queue and orders",
   "main": "app.js",
   "scripts": {
-    "test": "node -t app.js",
-    "start": "node app.js"
+    "test": "nodemon -t app.js",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",

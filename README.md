@@ -1,1 +1,1 @@
-este projeto e um modulo que gerencia fila/ordem de pedidos
+gerenciador de notas e tarefas, construido em MVC com js, pgsql, tailwind e express.
